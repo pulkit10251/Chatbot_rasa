@@ -1,0 +1,70 @@
+session_config:
+  session_expiration_time: 0
+  carry_over_slots_to_new_session: true
+intents:
+- greet
+- goodbye
+- affirm
+- deny
+- code
+- inform
+- search_provider
+- thanks
+- out_of_scope
+- abuse
+- mood_unhappy
+- mood_great
+entities:
+- facility_type
+- location
+- pincode
+- facility_address
+- code
+slots:
+  facility_address:
+    type: unfeaturized
+  facility_type:
+    type: unfeaturized
+  location:
+    type: unfeaturized
+  pincode:
+    type: unfeaturized
+responses:
+  utter_greet:
+  - text: Hi. I am a Medi-Locator Bot. What can I help you find today?
+  - text: Hello! I am Medi-Locator Bot. I will help find you with nerest medical service
+      in your Area! How can I help you?
+  utter_goodbye:
+  - text: Talk to you later!
+  - text: Have a good day.
+  - text: Until next time!
+  utter_noworries:
+  - text: My pleasure.
+  - text: You are welcome!
+  utter_address:
+  - text: The address of hospital in location {location} is {facility_address}.
+  utter_ask_location:
+  - text: For providing list of Hospitals nearby I need to know your location or pincode!!
+  utter_ask_location1:
+  - text: 'You have provided your pincode as {pincode}. As many area falls under this
+      pincode. I need to know your nearest places, so click on the area which is nearest
+      to you:'
+  utter_ask_for_pincode:
+  - text: I didn't get that! please rephrase again!!
+  utter_out:
+  - text: The information you have provided is out of context. Please share relevant
+      informaton!! Let's restart our conversation.
+  utter_ans_for_abuse:
+  - text: Please don't abuse me! I am here to help you! Don't talk shit!
+actions:
+- utter_noworries
+- utter_greet
+- utter_goodbye
+- find_location
+- find_healthcare_address
+- utter_address
+- utter_ask_location1
+- utter_ask_location
+- utter_ask_for_pincode
+- utter_ans_for_abuse
+- utter_out

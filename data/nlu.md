@@ -1,0 +1,647 @@
+## intent:affirm
+- yes
+- yes sure
+- absolutely
+- for sure
+- yes yes yes
+- definitely
+- yeah
+- si
+- ok
+- okay
+
+## intent:deny
+- no
+- not today
+- no thanks
+- no thank you
+- uh no
+- noope
+- do you have something else
+- no this does not work for me
+
+## intent:abuse
+- fuckoff
+- fuck
+- chutiya
+- behenchod
+- kutta
+- bitch
+- chadarmod
+- sale
+- saale
+- behen ke lode
+- gandwe
+
+
+## intent:out_of_scope
+- please help with my ice cream it's dripping
+- no wait go back i want a dripping ice cream but a cone that catches it so you can drink the ice cream later
+- i want a non dripping ice cream
+- someone call the police i think the bot died
+- show me a picture of a chicken
+- neither
+- I don't want coffee
+- give me my coffee
+- come on!!
+- kjsf8df kfj
+- djsjsj 485dfd
+- f87df8f fkjslw
+- fshfkhsf
+- fjkfsflff fdkkfjr kdjsf
+- sdmhdhj 755fddjss 4d7 fsdjsidus
+- why I am talking to you?
+- you are bloody hell
+- I don't want to give
+- I want french cuisine
+- i am hungry
+- restaurant
+- can i be shown a gluten free restaurant
+- i don't care!!!!
+- i do not care how are you
+- again?
+- oh wait i gave you my work email address can i change it?
+- hang on let me find it
+- stop it, i do not care!!!
+- how come?
+- I changed my mind
+- what?
+- did i break you
+- that link doesn't work!
+- you already have that
+- this is a really frustrating experience
+- no stop
+- give me food
+- i want food
+- Can I ask you questions first?
+- is it a wasteland full of broken robot parts?
+- can we keep chatting?
+- talk to me
+- who is your favourite robot?
+- can you help me to build a bot
+
+## intent:goodbye
+- Bye
+- Bye!
+- Goodbye
+- See you later
+- Bye bot
+- Goodbye friend
+- bye
+- bye for now
+- catch you later
+- gotta go
+- See you
+- goodnight
+- have a nice day
+- i'm off
+- see you later alligator
+- we'll speak soon
+
+## intent:greet
+- Hi
+- Hey
+- Hi bot
+- Hey bot
+- Hello
+- good morning
+- hi again
+- hi folks
+- hi Mister
+- hi pal!
+- hi there
+- greetings
+- hello everybody
+- hello is anybody there
+- hello robot
+- hi
+
+## intent:code
+- [110001](pincode)
+- [110002](pincode)
+- [110003](pincode)
+- [110004](pincode)
+- [110005](pincode)
+- [110006](pincode)
+- [110007](pincode)
+- [110008](pincode)
+- [110009](pincode)
+- [110010](pincode)
+- [110011](pincode)
+- [110012](pincode)
+- [110013](pincode)
+- [110014](pincode)
+- [110015](pincode)
+- [110016](pincode)
+- [110017](pincode)
+- [110018](pincode)
+- [110019](pincode)
+- [110020](pincode)
+- [110021](pincode)
+- [110022](pincode)
+- [110023](pincode)
+- [110024](pincode)
+- [110025](pincode)
+- [110026](pincode)
+- [110027](pincode)
+- [110028](pincode)
+- [110029](pincode)
+- [110030](pincode)
+- [110031](pincode)
+- [110032](pincode)
+- [110033](pincode)
+- [110034](pincode)
+- [110035](pincode)
+- [110036](pincode)
+- [110037](pincode)
+- [110038](pincode)
+- [110039](pincode)
+- [110040](pincode)
+- [110041](pincode)
+- [110042](pincode)
+- [110043](pincode)
+- [110044](pincode)
+- [110045](pincode)
+- [110046](pincode)
+- [110047](pincode)
+- [110048](pincode)
+- [110049](pincode)
+- [110051](pincode)
+- [110052](pincode)
+- [110053](pincode)
+- [110054](pincode)
+- [110055](pincode)
+- [110056](pincode)
+- [110057](pincode)
+- [110058](pincode)
+- [110059](pincode)
+- [110060](pincode)
+- [110061](pincode)
+- [110062](pincode)
+- [110063](pincode)
+- [110064](pincode)
+- [110065](pincode)
+- [110066](pincode)
+- [110067](pincode)
+- [110068](pincode)
+- [110070](pincode)
+- [110071](pincode)
+- [110073](pincode)
+- [110074](pincode)
+- [110075](pincode)
+- [110076](pincode)
+- [110078](pincode)
+- [110081](pincode)
+- [110082](pincode)
+- [110083](pincode)
+- [110084](pincode)
+- [110085](pincode)
+- [110086](pincode)
+- [110087](pincode)
+- [110088](pincode)
+- [110091](pincode)
+- [110092](pincode)
+- [110093](pincode)
+- [110094](pincode)
+- [110095](pincode)
+- [110096](pincode)
+
+
+## intent:inform
+- [Parliament House](location)
+- [Patiala House](location)
+- [Janpath](location)
+- [Pragati Maidan](location)
+- [Rail Bhawan](location)
+- [Election Commission](location)
+- [Shastri Bhawan](location)
+- [Baroda House](location)
+- [Bhagat Singh Market](location)
+- [New Delhi HO](location)
+- [Rajghat Power House](location)
+- [Darya Ganj](location)
+- [Gandhi Smarak Nidhi](location)
+- [I.P.Estate](location)
+- [Ajmeri Gate Extension](location)
+- [Minto Road](location)
+- [Delhi High Court](location)
+- [Lodi Colony](location)
+- [Pragati Vihar](location)
+- [Safdarjung Air Port,C G O Complex](location)
+- [Kasturba Nagar](location)
+- [Rashtrapati Bhawan](location)
+- [Karol Bagh](location)
+- [Guru Gobind Singh Marg](location)
+- [Anand Parbat PO](location)
+- [Master Prithvi Nath Marg](location)
+- [Chawri Bazar](location)
+- [Jama Masjid](location)
+- [Chandni Chowk](location)
+- [Delhi GPO](location)
+- [Hauz Qazi](location)
+- [Delhi University](location)
+- [Birla Lines](location)
+- [Sadar Bazar](location)
+- [Sabzi Mandi](location)
+- [Kamla Nagar](location)
+- [Padam Nagar](location)
+- [Shakti Nagar](location)
+- [Patel Nagar](location)
+- [Patel Nagar South & West](location)
+- [Desh Bandhu Gupta Road](location)
+- [Model Town II &](location)
+- [III](location)
+- [G.T.B.Nagar](location)
+- [Dr.Mukerjee Nagar](location)
+- [Nirankari Colony](location)
+- [Gujra Wala Town](location)
+- [Delhi Cantt](location)
+- [C.V.D.](location)
+- [Dhaula Kuan](location)
+- [Subroto Park](location)
+- [Pinto Park](location)
+- [A F Palam](location)
+- [Kirby Place](location)
+- [South Avenue](location)
+- [Nirman Bhawan](location)
+- [Gym Khana Club](location)
+- [Udyog Bhawan](location)
+- [Indra Puri](location)
+- [National Physical Laboratory](location)
+- [Hazrat Nizamuddin](location)
+- [Yusuf Sarai](location)
+- [Jungpura](location)
+- [Hari Nagar Ashram](location)
+- [Pratap Market](location)
+- [Mansarover Garden](location)
+- [Karam Pura](location)
+- [Ramesh Nagar](location)
+- [Delhi Industrial Area](location)
+- [Zakhira](location)
+- [IIT](location)
+- [Hauz Khan](location)
+- [Green Park Market](location)
+- [Technology Bhawan](location)
+- [Malviya Nagar](location)
+- [Chirag Delhi](location)
+- [Pushp Vihar](location)
+- [Saket](location)
+- [Panchsheel Enclave](location)
+- [Sarvodya Enclave](location)
+- [Vikas Puri](location)
+- [Tilak Nagar](location)
+- [Tilak Nagar East](location)
+- [Chand Nagar](location)
+- [Mahabir Nagar](location)
+- [Chaukhandi](location)
+- [Khyala Phase - I & II](location)
+- [Nehru Place](location)
+- [Chittranjan Park](location)
+- [Govindpuri](location)
+- [Kalkaji](location)
+- [Alaknanda](location)
+- [Tehkhand](location)
+- [Okhla Industrial Area phase-I](location)
+- [South Delhi Campus](location)
+- [Moti Bagh](location)
+- [Chanakya Puri](location)
+- [Nanak Pura](location)
+- [Anand Niketan](location)
+- [R K Puram Sec-14](location)
+- [R K Puram Sec-15](location)
+- [R K Puram Sec-17](location)
+- [R K Puram Sec-18](location)
+- [R K Puram Sec-112](location)
+- [Sarojini Nagar](location)
+- [Kidwai Nagar East & West](location)
+- [Netaji Nagar](location)
+- [Laxmi Bai Nagar](location)
+- [Lajpat Nagar](location)
+- [Defence Colony](location)
+- [Krishna Market](location)
+- [New Friends Colony](location)
+- [Jamia Nagar](location)
+- [Sukhdev Vihar](location)
+- [Zakir Nagar](location)
+- [Punjabi Bagh Sec - III](location)
+- [Shivaji Park](location)
+- [Ashoka Park Extension](location)
+- [Rajouri Garden](location)
+- [Subhash Nagar](location)
+- [Janta Market](location)
+- [Naraina Village & Industrial Area](location)
+- [S. J. Enclave](location)
+- [Ansari Nagar](location)
+- [Nauroji Nagar](location)
+- [Ghitorni](location)
+- [Mehrauli](location)
+- [Paryavaran Complex](location)
+- [Shastri Nagar](location)
+- [Gandhi Nagar](location)
+- [Geeta Colony](location)
+- [Kailash Nagar](location)
+- [Rajgarh Colony](location)
+- [Man Sarovar Park](location)
+- [Shahdara](location)
+- [Shivaji Park](location)
+- [Loni Road](location)
+- [Balbir Nagar](location)
+- [Vishwas Nagar](location)
+- [Jahangir Puri](location)
+- [N.S.Mandi](location)
+- [Rani Bagh](location)
+- [Anandwas](location)
+- [Shakur Pur](location)
+- [Saraswati Vihar](location)
+- [Pitam Pura](location)
+- [Keshav Puram](location)
+- [Sarai Rohilla](location)
+- [Inderlok](location)
+- [Rampura](location)
+- [Alipur](location)
+- [Bakoli](location)
+- [Kadipur](location)
+- [Khampur](location)
+- [Tajpur kalan](location)
+- [Gurgaon road](location)
+- [Kapashera](location)
+- [Mahipalpur](location)
+- [Palam airport](location)
+- [Samalkha](location)
+- [Rajokari](location)
+- [Bawana](location)
+- [Auchandi](location)
+- [Daryapur Kalan](location)
+- [Katewara](location)
+- [Bhorgarh](location)
+- [Narela](location)
+- [Nangloi](location)
+- [Sultan Puri](location)
+- [Piragarhi](location)
+- [Badli](location)
+- [Pehlad Pur](location)
+- [Shahbad Daulatpur](location)
+- [Samai Pur](location)
+- [Najafgarh](location)
+- [Jhatikara](location)
+- [Tugalkabad Railway Colony](location)
+- [Badarpur](location)
+- [Jaitpur](location)
+- [Lal Kuan](location)
+- [Dabri](location)
+- [Indira Park](location)
+- [Palam Village](location)
+- [Sagarpur](location)
+- [Nangal Raya](location)
+- [Aya Nagar](location)
+- [Mandi](location)
+- [Greater Kailash](location)
+- [Masjid Moth](location)
+- [Andrewsganj](location)
+- [Sadiq Nagar](location)
+- [Gulmohar Park](location)
+- [Gautam Nagar](location)
+- [Krishna Nagar](location)
+- [Jagatpuri](location)
+- [Ram Nagar](location)
+- [Azad Nagar](location)
+- [Azad Nagar](location)
+- [Ashok Vihar](location)
+- [Nimr](location)
+- [Shastri Nagar](location)
+- [Wazir Pur](location)
+- [Bhajan Pura](location)
+- [Seelampur](location)
+- [Yamuna Vihar](location)
+- [New Usmanpur](location)
+- [Ghonda](location)
+- [Civil Lines](location)
+- [L.R. Market](location)
+- [Timar Pur](location)
+- [Pahar Ganj](location)
+- [A.K.Market](location)
+- [Multani Dhanda](location)
+- [Shakur Basti](location)
+- [New Multan Nagar](location)
+- [Vasant Vihar- I & II](location)
+- [Janak Puri A-3](location)
+- [B-1](location)
+- [C-4](location)
+- [D.E.S.U. Colony](location)
+- [Uttam Nagar](location)
+- [Jeevan Park](location)
+- [Hastal Village](location)
+- [Matiala](location)
+- [Rajender Nagar](location)
+- [Bijwasan](location)
+- [Shahbad Mohammadpur](location)
+- [AFS Tugalkabad](location)
+- [BSF Camp Tigri](location)
+- [Hamdard Nagar](location)
+- [Khanpur](location)
+- [Pushpa Bhawan](location)
+- [Deoli](location)
+- [Jwalaheri,Paschim Vihar](location)
+- [Madipur](location)
+- [Hari Nagar](location)
+- [Maya Puri](location)
+- [Nehru Nagar](location)
+- [East of Kailash](location)
+- [Sriniwaspuri](location)
+- [R K Puram](location)
+- [Bikaji Cama Place](location)
+- [J.N.U.](location)
+- [Munirka](location)
+- [Maidan Garhi](location)
+- [Ignou,Neb Sarai](location)
+- [Vasant Kunj](location)
+- [Masood Pur](location)
+- [Chhawla](location)
+- [Badhosarai](location)
+- [Kangan Heri](location)
+- [Galib Pur](location)
+- [Quazipur](location)
+- [Issapur](location)
+- [Chattarpur](location)
+- [Fatehpur Beri](location)
+- [Dera](location)
+- [Satbari](location)
+- [Dwarka Sec-6](location)
+- [Sarita Vihar](location)
+- [Madanpur Khadar](location)
+- [Ali Village](location)
+- [N.S.I.T Dwarka](location)
+- [Raj Nagar - Ii](location)
+- [Karala](location)
+- [Kanjhawla](location)
+- [Chand Pur](location)
+- [Gheora](location)
+- [Jaunti](location)
+- [Rani Khera](location)
+- [Khera Kalan](location)
+- [Khera Khurd](location)
+- [Holambi Kalan](location)
+- [Mangol Puri - A Block](location)
+- [Mangol Puri - C Block](location)
+- [Mangol Puri - I Block](location)
+- [Mangol Puri - N Block](location)
+- [Burari](location)
+- [Jagatpur](location)
+- [Nathupura](location)
+- [Rohini](location)
+- [Prashant Vihar](location)
+- [Rithala](location)
+- [Budh Vihar](location)
+- [Sultan Puri - B,C,F Block](location)
+- [Peeragarhi](location)
+- [Jwala Puri](location)
+- [Sunder Vihar](location)
+- [Shalimar bagh](location)
+- [Haiderpur](location)
+- [Maurya Enclave Po](location)
+- [Patparganj](location)
+- [Trilok Puri](location)
+- [Mayur Vihar ph-I](location)
+- [Himmatpuri](location)
+- [Kalyanpuri](location)
+- [Chilla](location)
+- [Anand Vihar](location)
+- [Shakarpur](location)
+- [Mandawali](location)
+- [Nirman Vihar](location)
+- [Surajmal Vihar](location)
+- [Yozna Vihar](location)
+- [Loni Road](location)
+- [Nand Nagri "A" & "C"](location)
+- [Mandoli Saboli](location)
+- [Sonia Vihar](location)
+- [Khazuri Khas](location)
+- [Karawal Nagar](location)
+- [Dayalpur](location)
+- [Johripur](location)
+- [Gokal Puri](location)
+- [Dilshad Garden](location)
+- [Jhilmil](location)
+- [Old Seemapuri](location)
+- [Vivek Vihar](location)
+- [Ghazipur](location)
+- [Mayur Vihar ph-III](location)
+- [Vasundhra Enclave](location)
+
+
+## intent:search_provider
+- i need a [hospital](facility_type)
+- find me a nearby [hospital](facility_type)
+- I need a [hospital](facility_type) in my area
+- find me a [hospital](facility_type)
+- show me [hospitals](facility_type)
+- [hospital](facility_type)
+- find nearby [hospitals](facility_type) in my area.
+- find me a nearby [hospital](facility_type) my zip code is [110019](pincode)
+- i need a [hospital](facility_type)
+- find me a nearby [hospital](facility_type)
+- show me [hospital](facility_type)
+- [hospital](facility_type)
+- find me a nearby [hospital](facility_type) my zip code is [110085](pincode)
+- find me a nearby [hospital](facility_type)
+- show me [hospital](facility_type)
+- [hospital](facility_type)
+- need a [hospital](facility_type) in pin code [110084](pincode) 
+- find me a nearby [hospital](facility_type) my zip code is [110023](pincode)
+- i need a [hospital](facility_type) my zip code is [110052](pincode)
+- my zip code is [110001](pincode) and i need a [hospital](facility_type)
+- my zip code is [110085](pincode) and i need a [hospital](facility_type)
+- my zip code is [110086](pincode) and i need a [hospital](facility_type)
+- i need a [hospital](facility_type) at [110054](pincode)
+- i need a [hospital](facility_type) at [110063](pincode)
+- i need a [hospital](facility_type) at [110002](pincode)
+- i am in [Rohini](location) and i need a [hospital](facility_type)
+- i am in [Anand Vihar](location) and i need a [hospital](facility_type)
+- i am in [Bawana](location) and i need a [home healt agency](facility_type)
+- i need a [hospital](facility_type) in [Shakarpur](location)
+- i need a [hospital](facility_type) in [Gokal puri](location)
+- i need a [hospital](facility_type) in [Rohini](location)
+- show me [hospital](facility_type) in [Bawana](location)
+- show me [hospital](facility_type) in [Samai Pur](location)
+- show me [hospital](facility_type) in [Mayur Vihar ph-1](location)
+- find me a nearby [hospital](facility_type) in [Maya puri](location)
+- hi i am in [Nagloi](location) i need a [nursing  home](facility_type)
+- hi i am in [Narela](location) i need a [hospital](facility_type)
+- hi i am in [Rohini](location) i need a [hospital](facility_type)
+- hi i am in [Bawana](location) i need a [nursing  home](facility_type)
+- hi i am in [Shakarpura](location) i need a [hospital](facility_type)
+- hi i am in [Gokal puri](location) i need a [hospital](facility_type)
+- hi i am in [Rohini](location) i need a [nursing  home](facility_type)
+- hi i am in [Bawana](location) i need a [hospital](facility_type)
+- hi i am in [Vasant Kunj](location) i need a [hospital](facility_type)
+- hello i am in [Prashant Vihar](location) i need a [nursing  home](facility_type)
+- hello i am in [Trilok Puri](location) i need a [hospital](facility_type)
+- hello i am in [Rohini](location) i need a [hospital](facility_type)
+- hello i am in [Badli](location) i need a [nursing  home](facility_type)
+- hello i am in [Bawana](location) i need a [hospital](facility_type)
+- hello i am in [Nirman Vihar](location) i need a [hospital](facility_type)
+- hello i am in [Vasant Kunj](location) i need a [nursing  home](facility_type)
+- hello i am in [Jhilmil](location) i need a [hospital](facility_type)
+- hello i am in [Old Seemapuri](location) i need a [hospital](facility_type)
+- Good morning i am in [Vasundhra Enclave](location) i need a [nursing  home](facility_type)
+- Good morning i am in [Ghazipur](location) i need a [hospital](facility_type)
+- Good morning i am in [Vivek Vihar](location) i need a [hospital](facility_type)
+- Good morning i am in [Karawal Nagar](location) i need a [nursing  home](facility_type)
+- Good morning i am in [Peeragarhi](location) i need a [hospital](facility_type)
+- Good morning i am in [Rithala](location) i need a [hospital](facility_type)
+- Good morning i am in [Rohini](location) i need a [nursing  home](facility_type)
+- Good morning i am in [Prashant Vihar](location) i need a [hospital](facility_type)
+- Good morning i am in [Chandni Chowk](location) i need a [hospital](facility_type)
+- Hello again i need a [hospital](facility_type) in [Sadar Bazar](location)
+- Hello again i need a [hospital](facility_type) in [Delhi Cantt](location)
+- Hello again i need a [hospital](facility_type) in [Dhaula Kuan](location)
+- Good morning i need a [hospital](facility_type) in [Rohini](location)
+- Good morning i need a [hospital](facility_type) in [Bawana](location)
+- Good morning i need a [hospital](facility_type) in [Rithala](location)
+- Can you tell me a [hospital](facility_type) in [G.T.B Nagar](location) ?
+
+## intent:thanks
+- Thanks
+- Thank you
+- Thank you so much
+- Thanks bot
+- Thanks for that
+- cheers
+- cheers bro
+- ok thanks!
+- perfect thank you
+- thanks a bunch for everything
+- thanks for the help
+- thanks a lot
+- amazing, thanks
+- cool, thanks
+- cool thank you
+
+## intent:mood_great
+- perfect
+- very good
+- great
+- amazing
+- wonderful
+- I am feeling very good
+- I am great
+- I'm good
+
+## intent:mood_unhappy
+- sad
+- very sad
+- unhappy
+- bad
+- very bad
+- awful
+- terrible
+- not very good
+- extremely sad
+- so sad
+
+## synonym:facility_type
+- hospital
+- hospitals
+- hospitalies
+- clinic
+- nursing home

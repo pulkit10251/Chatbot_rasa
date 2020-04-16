@@ -1,0 +1,23 @@
+language: "en"
+
+pipeline:
+- name: WhitespaceTokenizer
+  case_sensitive: False
+- name: RegexFeaturizer
+- name: CRFEntityExtractor
+- name: EntitySynonymMapper
+- name: CountVectorsFeaturizer
+- name: DIETClassifier
+
+# Configuration for Rasa Core.
+# https://rasa.com/docs/rasa/core/policies/
+policies:
+  - name: MemoizationPolicy
+  - name: MappingPolicy
+  - name: EmbeddingPolicy
+  - name: FormPolicy
+  - name: FallbackPolicy
+    nlu_threshold: 0.3
+    core_threshold: 0.3
+    ambiguity_threshold: 0.1
+    fallback_action_name: 'utter_ask_for_pincode'
