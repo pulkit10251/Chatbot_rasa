@@ -66,7 +66,6 @@ class FindHealthCareAddress(Action):
 
         facility = "Hospital"
         address = "300 Hyde St, San Francisco"
-        dispatcher.utter_message("Here is the address of the {}:{}".format(facility, address))
 
         return [SlotSet("facility_address", address)]
 
