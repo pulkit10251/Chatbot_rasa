@@ -1,4 +1,3 @@
-
 ## happy_path facility_type + pincode
 * greet
     - utter_greet
@@ -16,8 +15,7 @@
     - utter_address
 
 * thanks
-    - utter_noworries 
-
+    - utter_noworries
 
 ## happy_path facility_type + location
 * greet
@@ -32,10 +30,8 @@
     - utter_address
 
 * thanks
-    - utter_noworries 
+    - utter_noworries
 
-
-    
 ## happy_path location and pincode
 * greet
     - utter_greet
@@ -74,8 +70,7 @@
     - utter_address
 
 * thanks
-    - utter_noworries 
-
+    - utter_noworries
 
 ## happy_path2
 * search_provider{"location": "Rohini", "facility_type": "Hospital"}
@@ -115,7 +110,6 @@
     - utter_out
     - utter_greet
 
-
 ## story_goodbye
 * goodbye
     - utter_goodbye
@@ -123,3 +117,9 @@
 ## story_thankyou
 * thanks
     - utter_noworries
+
+## story_abuse1
+* greet
+	- utter_greet
+* abuse
+    - utter_ans_for_abuse
