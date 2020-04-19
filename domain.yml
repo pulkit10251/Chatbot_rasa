@@ -1,3 +1,6 @@
+session_config:
+  session_expiration_time: 0
+  carry_over_slots_to_new_session: true
 intents:
 - greet
 - goodbye
@@ -25,7 +28,7 @@ slots:
     type: unfeaturized
   pincode:
     type: unfeaturized
-templates:
+responses:
   utter_greet:
   - text: Hi! I am a Medi Locator Bot. What can I help you find today?
   - text: Hello! I am a Medi Locator Bot. I will help find you with nearest medical
@@ -52,6 +55,9 @@ templates:
       share relevant informaton!!  Let's restart our conversation.
   utter_ans_for_abuse:
   - text: Please don't abuse me! I am here to help you! Don't talk shit!
+  utter_ask:
+  - text: So How can I help you!!
+  - text: So How can I help you!
 actions:
 - utter_noworries
 - utter_greet
@@ -64,3 +70,4 @@ actions:
 - utter_ask_for_pincode
 - utter_ans_for_abuse
 - utter_out
+- utter_ask

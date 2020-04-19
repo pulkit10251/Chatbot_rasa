@@ -33,7 +33,6 @@
 - behen ke lode
 - gandwe
 
-
 ## intent:out_of_scope
 - please help with my ice cream it's dripping
 - no wait go back i want a dripping ice cream but a cone that catches it so you can drink the ice cream later
@@ -206,7 +205,6 @@
 - [110095](pincode)
 - [110096](pincode)
 
-
 ## intent:inform
 - [Parliament House](location)
 - [Patiala House](location)
@@ -343,7 +341,6 @@
 - [Rajgarh Colony](location)
 - [Man Sarovar Park](location)
 - [Shahdara](location)
-- [Shivaji Park](location)
 - [Loni Road](location)
 - [Balbir Nagar](location)
 - [Vishwas Nagar](location)
@@ -405,10 +402,8 @@
 - [Jagatpuri](location)
 - [Ram Nagar](location)
 - [Azad Nagar](location)
-- [Azad Nagar](location)
 - [Ashok Vihar](location)
 - [Nimr](location)
-- [Shastri Nagar](location)
 - [Wazir Pur](location)
 - [Bhajan Pura](location)
 - [Seelampur](location)
@@ -511,7 +506,6 @@
 - [Nirman Vihar](location)
 - [Surajmal Vihar](location)
 - [Yozna Vihar](location)
-- [Loni Road](location)
 - [Nand Nagri "A" & "C"](location)
 - [Mandoli Saboli](location)
 - [Sonia Vihar](location)
@@ -528,7 +522,6 @@
 - [Mayur Vihar ph-III](location)
 - [Vasundhra Enclave](location)
 
-
 ## intent:search_provider
 - i need a [hospital](facility_type)
 - find me a nearby [hospital](facility_type)
@@ -538,15 +531,9 @@
 - [hospital](facility_type)
 - find nearby [hospitals](facility_type) in my area.
 - find me a nearby [hospital](facility_type) my zip code is [110019](pincode)
-- i need a [hospital](facility_type)
-- find me a nearby [hospital](facility_type)
 - show me [hospital](facility_type)
-- [hospital](facility_type)
 - find me a nearby [hospital](facility_type) my zip code is [110085](pincode)
-- find me a nearby [hospital](facility_type)
-- show me [hospital](facility_type)
-- [hospital](facility_type)
-- need a [hospital](facility_type) in pin code [110084](pincode) 
+- need a [hospital](facility_type) in pin code [110084](pincode)
 - find me a nearby [hospital](facility_type) my zip code is [110023](pincode)
 - i need a [hospital](facility_type) my zip code is [110052](pincode)
 - my zip code is [110001](pincode) and i need a [hospital](facility_type)
@@ -599,6 +586,9 @@
 - Good morning i need a [hospital](facility_type) in [Bawana](location)
 - Good morning i need a [hospital](facility_type) in [Rithala](location)
 - Can you tell me a [hospital](facility_type) in [G.T.B Nagar](location) ?
+- I need a [hospital](facility_type:facility_type)[hospital](facility_type)
+- I am in [Rohini](location:rohini)[Rohini](location)
+- my zip code is [110075](pincode)[110075](pincode)
 
 ## intent:thanks
 - Thanks
@@ -616,6 +606,7 @@
 - amazing, thanks
 - cool, thanks
 - cool thank you
+- thanks
 
 ## intent:mood_great
 - perfect
